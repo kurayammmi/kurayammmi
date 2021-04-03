@@ -1,2 +1,2 @@
-### Hi there, I'm lol
-<h1 style="color:red">Hi</h1>
+### Hi there, I'm kurayami ----↓
+### oh yeah -------------------←
