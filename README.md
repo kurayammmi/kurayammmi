@@ -3,4 +3,4 @@
 ### Hi there,i am kurayami
 #### 18 y.o
 #### Junior Frontend Developer
-### Skills
+### Skills:
