@@ -2,4 +2,3 @@
 
 # well,i am kurayami.
 ## junior frontend developer.
-## .
