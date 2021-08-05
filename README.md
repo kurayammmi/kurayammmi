@@ -1,3 +1,23 @@
+<p align="center">
+  <br>
+  <samp>
+    Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://tanx.dev">Tan</a></b>.
+    <br>I'm a Computer Engineering Undergraduate Student from Mexico.<br>
+
+</samp>
+
+  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
+
+</p>
+
+
+<details align="center">
+
+<summary> <b> <samp> Light bonfire </samp></b></summary>
+<samp>
+
+  ⭐️ From [TanZng](https://github.com/TanZng)
+
 <h1 align="center"> Hello, I'm Sulthan Mohaideen 👨‍💻 </h1>
 
 <h3 align="center">  Tech Enthusiast | Computer Engineer </h3> <br>
@@ -29,3 +49,8 @@
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ⭐️ From [SulthanNK](http://www.github.com/SulthanNK)
+
+
+</samp>
+</details>
+
