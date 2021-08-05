@@ -7,7 +7,7 @@
     
 </samp>
  
-  <details align="center">
+  
   <p align="center"> 
 <a href="https://www.linkedin.com/in/sulthannk/"><img alt="LinkedIn" src="https://img.shields.io/badge/-Sulthan_Mohaideen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sulthannk/"></a>
 <a href="https://twitter.com/SulthanNK"><img alt="Twitter" src="https://img.shields.io/badge/-SulthanNK-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/SulthanNK"></a>
@@ -20,7 +20,7 @@
 
 
 
-
+<details align="center">
  
   
 <summary> <b> <samp> Light bonfire </samp></b></summary>
