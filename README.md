@@ -28,20 +28,30 @@
   
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### 🤔 About
--  **Working :**  Web Development :computer: | Cloud :cloud: 
--  **Learning :** Full-Stack :zap: | Open-Source :fire:	
--  **Hobbies :** Books :books: | Music :headphones:
--  **Ask me about :** Anything!, I'm happy to help :v:
--  **Fun fact :** When most developer loves coffee:sweat_smile: But, I prefer tea :heart: 
--  **Pronouns :** He/Him/His :innocent:
+## 🙋‍♂️ About Me
+
+- 🔭 I’m currently working on **Some projects**
+
+- 🌱 I’m currently learning **Javscript.**
+
+- 👯 I’m looking to collaborate on **OpenSource Projects**
+
+- 👨‍💻 All of my projects are available at **[My Portfolio](------)**
+
+- 📫 How to reach me **someexampleofgmailName@gmail.com**
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-### 📊 Profile stats
+## 🚀 Languages and Tools:
 
-[![kurayammmis's github stats](https://github-readme-stats.vercel.app/api?username=kurayammmi&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/kurayammmi/github-readme-stats)
+<p align="left"> 
+    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
+    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
+alt="mongodb" width="48" height="48"/> </a> 
+    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a>  
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
+</p>
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
