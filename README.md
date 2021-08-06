@@ -1,7 +1,7 @@
 <p align="center">
   <br>
   <samp>
-    <h1>Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="#">kurayammmi</a></b>.</h1>
+    Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="#">kurayammmi</a></b>.
     <br>I'm a Junior Frontend Developer.<br>
 
 </samp>
