@@ -45,7 +45,7 @@
     <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
     <a href="https://sass-lang.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/sass.png"/> </a>  
     <a href="https://gulpjs.com/" target="_blank"> <img src="https://img.icons8.com/windows/32/000000/gulp.png"/> </a> 
-    <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/> </a>  
+    <a href="#" target="_blank"> <img src="https://github.com/kurayammmi/kurayammmi/blob/master/icons/icons8-javascript.gif"/> </a>  
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
 </p>
 
