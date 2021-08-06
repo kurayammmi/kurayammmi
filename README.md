@@ -7,7 +7,7 @@
 </samp>
   
   <br>
-  <img src="https://i.gifer.com/5s62.mp4" width="200"/>
+  <img src="https://github.com/kurayammmi/kurayammmi/blob/master/5s62.gif?raw=true" width="200"/>
 
 </p>
 
