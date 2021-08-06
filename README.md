@@ -22,7 +22,7 @@
 <details align="center">
  
   
-<summary> <b> <samp> Light bonfire </samp></b></summary>
+<summary> <b> <samp> Show more </samp></b></summary>
 <samp>
 
   
