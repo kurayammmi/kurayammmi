@@ -59,6 +59,7 @@
     <a href="https://github.com/kurayammmi/github-readme-stats"><img alt="Kurayammmi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kurayammmi&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=midnight-purple" /></a>
   <a href="https://github.com/kurayammmi/github-readme-stats"><img alt="Kurayammmi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kurayammmi&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
+  <br>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 
