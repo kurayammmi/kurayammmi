@@ -1,8 +1,8 @@
 <p align="center">
   <br>
   <samp>
-    Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="#">kurayammmi</a></b>.
-    <br>I'm a Junior Frontend Developer.<br>
+    ʜᴇʟʟᴏ ᴛʜᴇʀᴇ! ɪ'ᴍ <b><a rel="nofollow noopener noreferrer" target="_blank" href="#">ᴋᴜʀᴀʏᴀᴍᴍᴍɪ</a></b>.
+    <br>ɪ'ᴍ ᴀ ᴊᴜɴɪᴏʀ ꜰʀᴏɴᴛᴇɴᴅ ᴅᴇᴠᴇʟᴏᴘᴇʀ.<br>
 
 </samp>
   
@@ -38,7 +38,7 @@
 <br>
 
 
-## 🚀 Languages and Tools:
+## ʟᴀɴɢᴜᴀɢᴇs ᴀɴᴅ ᴛᴏᴏʟs:
 
 <p align="center"> 
     <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> </a>
@@ -53,7 +53,7 @@
 
 <br>
 
-## 📊 My Github Stats
+##  ᴍʏ ɢɪᴛʜᴜʙ sᴛᴀᴛs
 
   <br/>
     <a href="https://github.com/kurayammmi/github-readme-stats"><img alt="Kurayammmi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kurayammmi&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
@@ -72,7 +72,7 @@
 
  
   
-## CONNECT WITH ME:
+## ᴄᴏɴɴᴇᴄᴛ ᴡɪᴛʜ ᴍᴇ:
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/LinkToProfile/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
