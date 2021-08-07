@@ -25,15 +25,15 @@
 
 ## ᴀʙᴏᴜᴛ ᴍᴇ
 
- I’m currently working on **Some projects**
+ - I’m currently working on **Some projects**
 
- I’m currently learning **Javascript/React.**
+-  I’m currently learning **Javascript/React.**
 
- I’m looking to collaborate on **OpenSource Projects**
+-  I’m looking to collaborate on **OpenSource Projects**
 
- All of my projects are available at **[My Portfolio](------)**
+-  All of my projects are available at **[My Portfolio](------)**
 
- How to reach me **someexampleofgmailName@gmail.com**
+-  How to reach me **someexampleofgmailName@gmail.com**
   
 <br>
 
