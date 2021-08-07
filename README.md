@@ -48,6 +48,7 @@
     <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> </a>  
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="#" target="_blank"> <img  width="48" height="48" src="https://github.com/kurayammmi/kurayammmi/blob/master/icons/icons8-figma.gif"/> </a> 
+    <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> </a> 
 </p>
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
