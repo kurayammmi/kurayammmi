@@ -17,7 +17,7 @@
 <details align="center">
  
   
-<summary> <b> <samp> Show more </samp></b></summary>
+<summary> <b> <samp> sʜᴏᴡ ᴍᴏʀᴇ </samp></b></summary>
 <samp>
 
 <hr>
