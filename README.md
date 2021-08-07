@@ -57,7 +57,7 @@
 
   <br/>
     <a href="https://github.com/kurayammmi/github-readme-stats"><img alt="Kurayammmi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kurayammmi&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=midnight-purple" /></a>
-  <a href="https://github.com/kurayammmi/github-readme-stats"><img alt="Kurayammmi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kurayammmi&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/kurayammmi/github-readme-stats"><img alt="Kurayammmi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kurayammmi&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=7712B4" /></a>
   <br/>
   <br>
   <br>
