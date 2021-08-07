@@ -20,7 +20,7 @@
 <summary> <b> <samp> Show more </samp></b></summary>
 <samp>
 
-  
+<hr>
 
 <br>
 ## 🙋‍♂️ About Me
