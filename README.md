@@ -1,8 +1,8 @@
 <p align="center">
   <br>
   <samp>
-    ʜᴇʟʟᴏ ᴛʜᴇʀᴇ! ɪ'ᴍ <b><a rel="nofollow noopener noreferrer" target="_blank" href="#">ᴋᴜʀᴀʏᴀᴍᴍᴍɪ</a></b>.
-    <br>ɪ'ᴍ ᴀ ᴊᴜɴɪᴏʀ ꜰʀᴏɴᴛᴇɴᴅ ᴅᴇᴠᴇʟᴏᴘᴇʀ.<br>
+    hello there! i'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="#">kurayammmi</a></b>.
+    <br>i'm a junior frontend developer.<br>
 
 </samp>
   
@@ -17,15 +17,15 @@
 <details align="center">
  
   
-<summary> <b> <samp> sʜᴏᴡ ᴍᴏʀᴇ </samp></b></summary>
+<summary> <b> <samp> show more. </samp></b></summary>
 <samp>
 
 <hr>
 
 
-## ᴀʙᴏᴜᴛ ᴍᴇ
+## about me.
 
- - ɪ’ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ᴡᴏʀᴋɪɴɢ ᴏɴ on **Some projects**
+ - I’m currently search for work 
 
 -  I’m currently learning **Javascript/React.**
 
@@ -38,7 +38,7 @@
 <br>
 
 
-## ʟᴀɴɢᴜᴀɢᴇs ᴀɴᴅ ᴛᴏᴏʟs:
+## languages and tools:
 
 <p align="center"> 
     <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> </a>
@@ -53,7 +53,7 @@
 
 <br>
 
-##  ᴍʏ ɢɪᴛʜᴜʙ sᴛᴀᴛs
+##  my github stats.
 
   <br/>
     <a href="https://github.com/kurayammmi/github-readme-stats"><img alt="Kurayammmi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kurayammmi&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=midnight-purple" /></a>
@@ -77,7 +77,7 @@
 
  
   
-## ᴄᴏɴɴᴇᴄᴛ ᴡɪᴛʜ ᴍᴇ:
+## connect with me.
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/LinkToProfile/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
