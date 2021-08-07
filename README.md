@@ -22,8 +22,8 @@
 
 <hr>
 
-<br>
-## 🙋‍♂️ About Me
+
+## ᴀʙᴏᴜᴛ ᴍᴇ
 
 - 🔭 I’m currently working on **Some projects**
 
