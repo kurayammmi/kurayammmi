@@ -25,7 +25,7 @@
 
 ## ᴀʙᴏᴜᴛ ᴍᴇ
 
- - I’m currently working on **Some projects**
+ - ɪ’ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ᴡᴏʀᴋɪɴɢ ᴏɴ on **Some projects**
 
 -  I’m currently learning **Javascript/React.**
 
