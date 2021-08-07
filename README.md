@@ -20,7 +20,7 @@
 <summary> <b> <samp> show more. </samp></b></summary>
 <samp>
 
-<hr>
+<br>
 
 
 ## about me.
