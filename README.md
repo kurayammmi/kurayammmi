@@ -24,7 +24,7 @@
 
 
 ## ᴀʙᴏᴜᴛ ᴍᴇ
-<samp>
+
  I’m currently working on **Some projects**
 
  I’m currently learning **Javascript/React.**
@@ -34,7 +34,7 @@
  All of my projects are available at **[My Portfolio](------)**
 
  How to reach me **someexampleofgmailName@gmail.com**
-  </samp>
+  
 <br>
 
 
